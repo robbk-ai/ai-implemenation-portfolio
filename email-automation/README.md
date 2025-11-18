@@ -137,5 +137,5 @@ This project shows:
 - Ability to analyze a common workflow (email)
 - Use AI to design a **repeatable, documented process**
 - Focus on **time savings and productivity**, not just “playing with AI”
+- This approach can be rolled out to any team or client looking to reduce communication overhead.
 
-It’s exactly the kind of solution an AI Implementation Specialist would roll out for a team or client.
