@@ -1,7 +1,6 @@
 # Implementation Framework
 
-This framework outlines the structured approach I use to successfully plan, implement, and deploy AI-powered solutions inside organizations.  
-Each phase includes objectives, activities, and clear outputs that ensure smooth adoption and measurable business impact.
+This framework outlines the structured approach I use to successfully plan, implement, and deploy AI-powered solutions inside organizations. Each phase includes objectives, activities, and clear outputs that ensure smooth adoption and measurable business impact.
 
 ---
 
