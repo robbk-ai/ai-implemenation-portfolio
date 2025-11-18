@@ -98,5 +98,4 @@ Ongoing performance reports + version updates of the solution.
 
 ## Summary
 
-This Implementation Framework ensures consistent project quality, transparent communication, and measurable ROI.  
-It combines structured project management with practical GenAI deployment experience to deliver real business value.
+This Implementation Framework ensures consistent project quality, transparent communication, and measurable ROI. It combines structured project management with practical GenAI deployment experience to deliver real business value.
