@@ -39,9 +39,6 @@ Risks
 Next steps
 Use bullet points and assign owners.
 
-yaml
-Copy code
-
 ---
 
 ## 📌 2. Document → Insight Extraction  
@@ -112,9 +109,6 @@ Helps teams intervene early → prevents costly overruns.
 **Example Prompt:**  
 Identify all project risks in the following weekly update.
 Rate each risk as High, Medium, or Low and explain why.
-
-yaml
-Copy code
 
 ---
 
